@@ -1,0 +1,9 @@
+[package]
+name = "open-ethereum-downgrade-db-to-2-5"
+version = "0.1.0"
+authors = ["Andronik Ordian <write@reusable.software>"]
+edition = "2018"
+
+[dependencies]
+kvdb-rocksdb = "0.6.0"
+structopt = "0.3.11"
